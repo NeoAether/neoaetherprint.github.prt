@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>More designs</title>
+    <style>
+      body {
+        background-image: url('https://img3.wallspic.com/crops/6/9/0/4/7/174096/174096-manga_shonen-anime-salto_semanal_de_shnen-naruto_uzumaki-manga-1366x768.jpg');
+        margin: 0;
+        font-family: Arial, sans-serif;
+      }
+
+      h1 {
+        font-size: 68px;
+        font-family: Times New Roman, serif;
+        color: #fcfcfd;
+        text-align: center;
+        background-color: rgba(1, 1, 1, 0.9);
+      }
+
+      img {
+        transition: transform 0.3s ease;
+      }
+
+      img:hover {
+        transform: scale(1.1);
+      }
+
+      /* Estilo del aviso inicial */
+      #initial-warning {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.9);
+        color: white;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        z-index: 1000;
+        text-align: center;
+        padding: 20px;
+        box-sizing: border-box;
+      }
+
+      #initial-warning button {
+        margin-top: 20px;
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        font-size: 16px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+      }
+
+      #initial-warning button:hover {
+        background-color: #0056b3;
+      }
+    </style>
+    <script>
+      function hideWarning() {
+        document.getElementById('initial-warning').style.display = 'none';
+      }
+    </script>
+  </head>
+  <body>
+   
+    <div id="initial-warning">
+      <p>Los diseños que muestran a continuación no están disponibles por el
+        momento, solo es una vista previa a la próxima actualización de la
+        página.</p>
+      <button onclick="hideWarning()">Entendido, continuar</button>
+    </div>
+    
+        <h1>More Designs</h1>
+    <h2 style="text-align: justify; background-color: rgba(1, 0, 1, 0.77);"> <span
+
+        style="color: #fcfcfd;"><strong><b>Black clover</b></strong></span> </h2>
+    <p> <img src="Balck clover A1.jpg" alt="Balck clover"
+
+        title="Balck clover" style="width: 397px; height: 397px;">
+      <img src="Balck clover A2.jpg" alt="Balck clover" title="Balck clover"
+
+        style="width: 397px; height: 397px;"> 
+      <img src="Balck clover A3.jpg"
+
+        alt="Balck clover" title="Balck clover"
+
+        style="width: 397px; height: 397px;">
+    <img src="Balck clover A4.jpg" alt="Balck clover"
+
+        title="Balck clover" style="width: 397px; height: 397px;">
+      <img src="Balck clover A5.jpg" alt="Balck clover" title="Balck clover"
+
+        style="width: 397px; height: 397px;"> 
+      <img src="Balck clover A6.jpg"
+
+        alt="Balck clover" title="Balck clover"
+
+        style="width: 397px; height: 397px;"> </p>
+    
+    
+    <h2 style="text-align: justify; background-color: rgba(1, 0, 1, 0.77);"> <span
+    style="color: #fcfcfd;"><strong><b>Dan Da Dan</b></strong></span> </h2>
+    <p> <img src="Dan da Dan A1.jpg" alt="Dan da Dan"
+
+        title="Dan da Dan" style="width: 397px; height: 397px;">
+      <img src="Dan da Dan A2.jpg" alt="Dan da Dan" title="Dan da Dan"
+
+        style="width: 397px; height: 397px;"> 
+      <img src="Dan da Dan A3.jpg"
+
+        alt="Dan da Dan" title="Dan da Dan"
+
+        style="width: 397px; height: 397px;">
+    <img src="Dan da Dan A4.jpg" alt="Dan da Dan"
+
+        title="Balck clover" style="width: 397px; height: 397px;">
+      <img src="Dan da Dan A5.jpg" alt="Dan da Dan" title="Dan da Dan"
+
+        style="width: 397px; height: 397px;"> 
+      <img src="Dan da Dan A6.jpg"
+
+        alt="Dan da Dan" title="Dan da Dan"
+
+        style="width: 397px; height: 397px;"> </p>
+    <a href="Neo%20Aether.html" title="Back at the main page" target="_top"> <img
+
+        src="Back%20button.jpg" alt="Back" title="Back" style="width: 215px; height: 58px;">
+    </a>
+    <h2 style="text-align: justify; background-color: rgba(1, 0, 1, 0.77);"> <span
+    style="color: #fcfcfd;"><strong><b>Seven Deadly Sins</b></strong></span> </h2>
+    <p> <img src="Seven deadly sins A1.jpg" alt="Seven deadly sins"
+
+        title="Seven deadly sins" style="width: 397px; height: 397px;">
+      <img src="Seven deadly sins.jpg" alt="Seven deadly sins" title="Seven deadly sins"
+
+        style="width: 397px; height: 397px;"> 
+      <img src="Seven deadly sins A3.jpg"
+
+        alt="Seven deadly sins" title="Seven deadly sins"
+
+        style="width: 397px; height: 397px;">
+    <img src="Seven deadly sins A4.jpg" alt="Seven deadly sins"
+
+        title="Seven deadly sins" style="width: 397px; height: 397px;">
+      <img src="Seven deadly sins A5.jpg" alt="Seven deadly sins" title="Seven deadly sins"
+
+        style="width: 397px; height: 397px;"> 
+      <img src="Seven deadly sins A6.jpg"
+
+        alt="Seven deadly sins" title="Seven deadly sins"
+
+        style="width: 397px; height: 397px;"> </p>
+    <a href="Neo%20Aether.html" title="Back at the main page" target="_top"> <img
+
+        src="Back%20button.jpg" alt="Back" title="Back" style="width: 215px; height: 58px;">
+    </a>
+    
+  </body>
+</html>

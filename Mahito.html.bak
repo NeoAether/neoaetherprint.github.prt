@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Mahito</title>
+    <style>
+    body{
+
+			background-image: url('https://img3.wallspic.com/crops/6/9/0/4/7/174096/174096-manga_shonen-anime-salto_semanal_de_shnen-naruto_uzumaki-manga-1366x768.jpg')
+    }
+  h1 {
+            		font-size: 68px;
+            		font-family: Times New Roman, serif;
+            		color: #fcfcfd;
+            		text-align: center;
+        	}
+      img {
+            transition: transform 0.3s ease; /* Suaviza el cambio de tamaño */
+        }
+
+        img:hover {
+            transform: scale(1.1); /* Aumenta el tamaño al 110% */
+        }
+    </style>
+  </head>
+  <body>
+    <h1 style="background-color: rgba(1, 1, 1, 0.9);">Mahito</h1>
+    <h2 style="text-align: justify; background-color: rgba(1, 0, 1, 0.77);"><span
+
+        style="color: #fcfcfd;"><strong><b>Photographic Annexes</b></strong></span></h2>
+    <p> <img src="Mahito%20A2.jpg" alt="Mahito " title="Te es cucho perfectamente sin que levantes la voz Iuji Itadori "
+
+        style="width: 397px; height: 397px;"> <img src="Mahito%20A3.jpg" alt="Mahito"
+
+        title="Mahito" style="width: 397px; height: 397px;"> <img src="Mahito%20A4.jpg"
+
+        alt="Mahito" title="Mahito" style="width: 397px; height: 397px;"></p>
+    <p></p>
+    <h2 style="text-align: justify; background-color: rgba(1, 0, 1, 0.77);"><span
+
+        style="color: #fcfcfd;"><strong><b>Download here!</b></strong></span></h2>
+    <div style="text-align: justify;"> <a href="https://cults3d.com/en/3d-model/art/jujutsu-kaisen-mahito-20-cm-3d-print-model-3d-print-model"
+
+        target="_blank" title="Ir a Cults 3D"> <img src="Cults%203D.jpg"
+
+          alt="Cults 3D" title="Cults 3D" style="width: 275px; height: 275px;"><br>
+      </a></div>
+    <div style="text-align: justify;"><br>
+    </div>
+    <a href="Neo%20Aether.html" title="Back at the main page" target="_top"><img
+
+        src="Back%20button.jpg" alt="Back" title="Back" style="width: 215px; height: 58px;"></a>
+    <p style="text-align: justify; background-color: rgba(152, 152, 152, 0.9);">
+    </p>
+    <u> </u>
+    <p style="text-align: justify; background-color: rgba(152, 152, 152, 0.9);">
+    </p>
+  </body>
+</html>
